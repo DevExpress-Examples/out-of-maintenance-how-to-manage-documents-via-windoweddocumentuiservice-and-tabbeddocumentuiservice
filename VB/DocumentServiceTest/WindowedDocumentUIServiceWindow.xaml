@@ -1,4 +1,4 @@
-﻿<Window x:Class="DocumentServiceTest.WindowedDocumentUIServiceWindow"
+<Window x:Class="DocumentServiceTest.WindowedDocumentUIServiceWindow"
         xmlns:View="clr-namespace:DocumentServiceTest.View"
         xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
         xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm"

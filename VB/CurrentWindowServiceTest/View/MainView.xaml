@@ -1,4 +1,4 @@
-﻿<UserControl x:Class="CurrentWindowServiceTest.View.MainView"
+<UserControl x:Class="CurrentWindowServiceTest.View.MainView"
              xmlns:ViewModel="clr-namespace:CurrentWindowServiceTest.ViewModel"
              xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
              xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm"

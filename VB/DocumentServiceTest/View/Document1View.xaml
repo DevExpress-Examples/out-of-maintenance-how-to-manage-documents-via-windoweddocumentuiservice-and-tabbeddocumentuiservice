@@ -1,4 +1,4 @@
-﻿<UserControl x:Class="DocumentServiceTest.View.Document1View"
+<UserControl x:Class="DocumentServiceTest.View.Document1View"
              xmlns:ViewModel="clr-namespace:DocumentServiceTest.ViewModel"
              xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
