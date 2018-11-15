@@ -1,3 +1,18 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CurrentWindowServiceTest/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CurrentWindowServiceTest/MainWindow.xaml))
+* [MainView.xaml](./CS/CurrentWindowServiceTest/View/MainView.xaml) (VB: [MainView.xaml](./VB/CurrentWindowServiceTest/View/MainView.xaml))
+* [MainViewModel.cs](./CS/CurrentWindowServiceTest/ViewModel/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/CurrentWindowServiceTest/ViewModel/MainViewModel.vb))
+* [TabbedDocumentUIServiceWindow.xaml](./CS/DocumentServiceTest/TabbedDocumentUIServiceWindow.xaml) (VB: [TabbedDocumentUIServiceWindow.xaml](./VB/DocumentServiceTest/TabbedDocumentUIServiceWindow.xaml))
+* [Document1View.xaml](./CS/DocumentServiceTest/View/Document1View.xaml) (VB: [Document1View.xaml](./VB/DocumentServiceTest/View/Document1View.xaml))
+* [Document2View.xaml](./CS/DocumentServiceTest/View/Document2View.xaml) (VB: [Document2View.xaml](./VB/DocumentServiceTest/View/Document2View.xaml))
+* [MainView.xaml](./CS/DocumentServiceTest/View/MainView.xaml) (VB: [MainView.xaml](./VB/DocumentServiceTest/View/MainView.xaml))
+* [Document1ViewModel.cs](./CS/DocumentServiceTest/ViewModel/Document1ViewModel.cs) (VB: [Document1ViewModel.vb](./VB/DocumentServiceTest/ViewModel/Document1ViewModel.vb))
+* [Document2ViewModel.cs](./CS/DocumentServiceTest/ViewModel/Document2ViewModel.cs) (VB: [Document2ViewModel.vb](./VB/DocumentServiceTest/ViewModel/Document2ViewModel.vb))
+* [MainViewModel.cs](./CS/DocumentServiceTest/ViewModel/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/DocumentServiceTest/ViewModel/MainViewModel.vb))
+* [WindowedDocumentUIServiceWindow.xaml](./CS/DocumentServiceTest/WindowedDocumentUIServiceWindow.xaml) (VB: [WindowedDocumentUIServiceWindow.xaml](./VB/DocumentServiceTest/WindowedDocumentUIServiceWindow.xaml))
+<!-- default file list end -->
 # How to: Manage documents via WindowedDocumentUIService and TabbedDocumentUIService
 
 
