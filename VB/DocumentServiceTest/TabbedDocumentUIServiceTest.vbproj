@@ -40,22 +40,22 @@
     <StartupObject>DocumentServiceTest.App</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Data.v15.1">
+    <Reference Include="DevExpress.Data.v14.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Printing.v15.1.Core">
+    <Reference Include="DevExpress.Printing.v14.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Core.v15.1">
+    <Reference Include="DevExpress.Xpf.Core.v14.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Docking.v15.1">
+    <Reference Include="DevExpress.Xpf.Docking.v14.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Layout.v15.1.Core">
+    <Reference Include="DevExpress.Xpf.Layout.v14.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Mvvm.v15.1">
+    <Reference Include="DevExpress.Mvvm.v14.1">
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
